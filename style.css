@@ -1,0 +1,275 @@
+
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  background-color: #F0F5F9;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 9.38rem;
+  margin: 0 auto 0 auto;
+  padding-top: 50px;
+  color: #1E2022;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin: 20px auto 0px auto;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 20%;
+  color: #1E2022;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+p {
+  color: #1E2022;
+}
+
+
+
+
+
+.top-container {
+  background-color: #C9D6DF;
+}
+
+.yonkos-descrition {
+  font-size: 1.5rem;
+  width: 30%;
+  margin: 0px auto 0px auto;
+  padding-bottom: 50px;
+  font-weight: bolder;
+}
+
+.logo {
+  padding-bottom: 50px;
+}
+
+
+
+.middle-container {
+  background-color: #52616B;
+  line-height: 2;
+}
+
+.teamimg {
+  border-radius: 100px;
+}
+
+.crew {
+  margin: 0 auto 0 auto;
+  padding-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  color: #C9D6DF;
+}
+
+
+
+
+.middle-container2 {
+  line-height: 2;
+  width:50%;
+  margin: 100px auto 100px auto;
+}
+
+.first-last{
+margin: 0 auto 60px auto;
+}
+
+.dart-profile-info{
+margin:50px auto 200px auto;
+}
+
+.dart-image{
+width:350px;
+height:450px;
+border-radius:100px;
+}
+.dart-info{
+width: 50%;
+margin: 20px auto 20px auto;
+}
+
+.facebook-icon{
+margin-right:10px;
+}
+
+
+
+.adam-profile-info{
+margin:50px auto 500px auto;
+text-align: left;
+}
+.adam-image{
+  width:350px;
+  height:450px;
+  border-radius:100px;
+  float: left;
+  margin-right:30px;
+}
+
+.adam-h3{
+margin-left:0;
+}
+
+.adam-info{
+width: 70%;
+}
+
+
+.nikos-profile-info{
+margin:50px auto 500px auto;
+text-align: left;
+}
+.nikos-image{
+  width:350px;
+  height:450px;
+  border-radius:100px;
+  float:right;
+  margin-right:30px;
+}
+
+.nikos-h3{
+margin-right:0;
+}
+
+.nikos-info{
+width:50%;
+}
+
+
+.alex-profile-info{
+margin:50px auto 500px auto;
+text-align: left;
+}
+.alex-image{
+  width:350px;
+  height:450px;
+  border-radius:100px;
+  float: left;
+  margin-right:30px;
+}
+
+.alex-h3{
+margin-left:0;
+}
+
+.alex-info{
+width: 70%;
+}
+
+
+
+.akis-profile-info{
+margin:50px auto 500px auto;
+text-align: left;
+}
+.akis-image{
+  width:350px;
+  height:450px;
+  border-radius:100px;
+  float:right;
+  margin-right:30px;
+}
+
+.akis-h3{
+margin-right:0;
+}
+
+.akis-info{
+width:50%;
+}
+
+
+
+
+
+.action-team{
+background-color:#52616B;
+margin:100px 0 100px 0;
+padding: 50px 0 100px 0;
+
+
+
+}
+.action{
+margin: 50px 0 100px 0;
+}
+.meet{
+width: 450px;
+height:550px;
+margin:0 10px 0 10px;
+border-style: solid;
+
+}
+
+.meet:hover{
+transform: scaleX(-1);
+}
+
+
+
+
+.button {
+  background: #52616B;
+  background-image: -webkit-linear-gradient(top, #52616B, #C9D6DF);
+  background-image: -moz-linear-gradient(top, #52616B, #C9D6DF);
+  background-image: -ms-linear-gradient(top, #52616B, #C9D6DF);
+  background-image: -o-linear-gradient(top, #52616B, #C9D6DF);
+  background-image: -webkit-gradient(to bottom, #52616B, #C9D6DF);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family:'Merriweather', serif;
+  font-size: 20px;
+  font-weight: 200;
+  padding: 10px;
+  border: solid #52616B 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.button:hover {
+  border: solid #52616B 0;
+  background: #C9D6DF;
+  background-image: -webkit-linear-gradient(top, #C9D6DF, #52616B);
+  background-image: -moz-linear-gradient(top, #C9D6DF, #52616B);
+  background-image: -ms-linear-gradient(top, #C9D6DF, #52616B);
+  background-image: -o-linear-gradient(top, #C9D6DF, #52616B);
+  background-image: -webkit-gradient(to bottom, #C9D6DF, #52616B);
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+  text-decoration: none;
+}
+
+.bottom-container{
+background-color:#52616B;
+padding-top:50px;
+}
+
+.socialmedia{
+margin-top:50px;
+text-decoration: none;
+font-family:'Merriweather', serif;
+margin:0 10px 0 10px;
+color:#C9D6DF;
+}
+
+.athanasiadis{
+margin:0 auto 0 auto;
+padding: 30px 0 20px 0;
+}
